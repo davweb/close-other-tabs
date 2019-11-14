@@ -25,7 +25,7 @@ with open('translations.csv') as csvfile:
     csvreader = csv.reader(csvfile)
     for row in csvreader:
         (code, language, extensionName, extensionDescription, contextMenuItemLabel) = row
-        directory = "../_locales/{}".format(code)
+        directory = "../extension/_locales/{}".format(code)
         
         if not os.path.exists(directory):
             os.makedirs(directory)
@@ -33,4 +33,3 @@ with open('translations.csv') as csvfile:
         file = directory + "/messages.json"
         with open(file, "w") as json_file:
            json_file.write(TEMPLATE.format(**locals()))
-
