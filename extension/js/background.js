@@ -1,4 +1,21 @@
-function closeOtherTabs(info, tabToKeep) {
+const ICONS = {
+    enabled: {
+        path: {
+            "16": "images/close16.png",
+            "24": "images/close24.png",
+            "32": "images/close32.png"
+        }
+    },
+    disabled: {
+        path: {
+            "16": "images/disabled16.png",
+            "24": "images/disabled24.png",
+            "32": "images/disabled32.png"
+        }
+    }
+};
+
+function closeOtherTabs(tabToKeep) {
     chrome.tabs.getAllInWindow(tabToKeep.windowId, function(tabs) {
         chrome.tabs.remove(tabs.map(tab => tab.id).filter(tabId => tabId !== tabToKeep.id));
     });
@@ -7,8 +24,10 @@ function closeOtherTabs(info, tabToKeep) {
 const menuItemId = chrome.contextMenus.create({
     title: chrome.i18n.getMessage("contextMenuItemLabel"),
     contexts: ['page'],
-    onclick: closeOtherTabs
+    onclick: (info, tab) => closeOtherTabs(tab)
 });
+
+chrome.browserAction.onClicked.addListener(closeOtherTabs);
 
 function countTabs(windowId) {
     chrome.tabs.getAllInWindow(windowId, function(tabs) {
@@ -16,6 +35,8 @@ function countTabs(windowId) {
         chrome.contextMenus.update(menuItemId, {
             enabled: enabled
         })
+        const icons = ICONS[enabled ? "enabled" : "disabled"];
+        chrome.browserAction.setIcon(icons);
     });
 }
 
