@@ -1,7 +1,8 @@
 # close-other-tabs
-Chrome Extension to add Close Other Tabs back to tab context menu
+Chrome Extension to add Close Other Tabs functionality.
 
 To replace the item recently removed from the right-click menu on Chrome tabs, this extension does two things:
+
 * It adds a button to the toolbar you can click on to close other tabs.
 * It adds a Close Other Tabs item to the standard right-click context menu.
 
