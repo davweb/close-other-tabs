@@ -21,6 +21,14 @@
       "default_title": "__MSG_extensionName__"
     },
 
+    "commands": {
+      "_execute_browser_action": {
+        "suggested_key": {
+          "default": "Alt+Shift+W"
+        }
+      }
+    },
+
     "permissions": [
       "contextMenus"
     ],
