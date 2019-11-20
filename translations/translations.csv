@@ -1,55 +1,55 @@
 ,,extensionName,extensionDescription,contextMenuItemLabel
-en,English,Close Other Tabs,Adds a Close Other Tabs entry to the context menu.,Close Other Tabs
-ar,Arabic,إغلاق علامات التبويب الأخرى,ويضيف إدخال إغلاق علامات التبويب الأخرى إلى قائمة السياق.,إغلاق علامات التبويب الأخرى
-am,Amharic,ሌሎች ትሮችን ዝጋ,ወደ የአውድ ምናሌ ወደ ሌሎች ትሮችን ዝጋ ግቤት ያክላል.,ሌሎች ትሮችን ዝጋ
-bg,Bulgarian,Затваряне на другите раздели,Добавя запис Затваряне на другите раздели на контекстното меню.,Затваряне на другите раздели
-bn,Bengali,অন্যান্য ট্যাব বন্ধ করুন,প্রসঙ্গ মেনুতে একটি অন্যান্য ট্যাব বন্ধ এন্ট্রি যোগ করে।,অন্যান্য ট্যাব বন্ধ করুন
-ca,Catalan,Tancar les altres pestanyes,Afegeix una entrada Tancar les altres pestanyes a el menú de context.,Tancar les altres pestanyes
-cs,Czech,Zavřít ostatní karty,Přidá položku Zavřít ostatní karty do kontextového menu.,Zavřít ostatní karty
-da,Danish,Luk andre faner,Tilføjer en Luk andre faner adgang til genvejsmenuen.,Luk andre faner
-de,German,Andere Tabs schließen,Fügt eine Andere Tabs schließen Eintrag im Kontextmenü.,Andere Tabs schließen
-el,Greek,Κλείσιμο των άλλων καρτελών,Προσθέτει μια καταχώρηση Κοντά Άλλες καρτέλες στο μενού περιβάλλοντος.,Κλείσιμο των άλλων καρτελών
-en_GB,English (Great Britain),Close Other Tabs,Adds a Close Other Tabs entry to the context menu.,Close Other Tabs
-en_US,English (USA),Close Other Tabs,Adds a Close Other Tabs entry to the context menu.,Close Other Tabs
-es,Spanish,Cerrar las otras pestañas,Agrega una entrada Cerrar las otras pestañas al menú contextual.,Cerrar las otras pestañas
-es_419,Spanish (Latin America and Caribbean),Cerrar las otras pestañas,Agrega una entrada Cerrar las otras pestañas al menú contextual.,Cerrar las otras pestañas
-et,Estonian,Sule muud vahelehed,Lisab Sule muud vahelehed sisenemise kontekstimenüü.,Sule muud vahelehed
-fa,Persian,بستن برگه های دیگر,می افزاید: یک ورود بستن برگه های دیگر به منوی زمینه.,بستن برگه های دیگر
-fi,Finnish,Sulje muut välilehdet,Lisää Sulje muut välilehdet pääsy valikon.,Sulje muut välilehdet
-fil,Filipino,Isara ang Ibang Mga Tab,Nagdadagdag ng isang Isara ang Ibang Mga Tab entry sa menu ng konteksto.,Isara ang Ibang Mga Tab
-fr,French,Fermer les autres onglets,Ajoute une entrée Fermer les autres onglets dans le menu contextuel.,Fermer les autres onglets
-gu,Gujarati,અન્ય ટૅબ્સને બંધ કરો,સંદર્ભ મેનૂ પર અન્ય ટૅબ્સને બંધ કરો એન્ટ્રી ઉમેરે છે.,અન્ય ટૅબ્સને બંધ કરો
-he,Hebrew,סגור כרטיסיות אחרות,מוסיף רשומת סגירה אחרת טאבים לתפריט ההקשר.,סגור כרטיסיות אחרות
-hi,Hindi,अन्य टैब बंद करें,प्रसंग मेनू में अन्य टैब बंद प्रविष्टि जोड़ता है।,अन्य टैब बंद करें
-hr,Croatian,Zatvori ostale kartice,Dodaje unos Zatvori ostale kartice na kontekstnom izborniku.,Zatvori ostale kartice
-hu,Hungarian,Egyéb lapok bezárása,Hozzáad egy Egyéb lapok bezárása bejegyzést a menüből.,Egyéb lapok bezárása
-id,Indonesian,Tutup Tab Lain,Menambahkan entri Tutup Tab Lain ke menu konteks.,Tutup Tab Lain
-it,Italian,Chiudi le altre schede,Aggiunge una voce Chiudi le altre schede al menu contestuale.,Chiudi le altre schede
-ja,Japanese,他のタブをすべて閉じます,コンテキストメニューに他のタブをすべて閉じるエントリを追加します。,他のタブをすべて閉じます
-kn,Kannada,ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ,ಸಂದರ್ಭ ಮೆನುಗೆ ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ ನಮೂದನ್ನು ಸೇರಿಸುತ್ತದೆ.,ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ
-ko,Korean,다른 탭 닫기,상황에 맞는 메뉴에 다른 탭 닫기 항목을 추가합니다.,다른 탭 닫기
-lt,Lithuanian,Uždaryti kitus skirtukus,Prideda Uždaryti kitus skirtukus atvykti į kontekstinį meniu.,Uždaryti kitus skirtukus
-lv,Latvian,Aizvērt citas cilnes,Pievieno Aizvērt citas cilnes ierakstu konteksta izvēlni.,Aizvērt citas cilnes
-ml,Malayalam,മറ്റ് ടാബുകൾ അടയ്ക്കുക,സന്ദർഭ മെനുവിൽ ഒരു മറ്റ് ടാബുകൾ അടയ്ക്കുക എൻട്രി ചേർക്കുന്നു.,മറ്റ് ടാബുകൾ അടയ്ക്കുക
-mr,Marathi,अन्य टॅब बंद करा,संदर्भ मेनूमध्ये एखादी अन्य टॅब बंद करा प्रविष्टी जोडेल.,अन्य टॅब बंद करा
-ms,Malay,Tutup Tab Lain,Menambah kemasukan Tutup Tab lain untuk menu konteks.,Tutup Tab Lain
-nl,Dutch,Andere tabbladen sluiten,Voegt een andere tabbladen sluiten de toegang tot het contextmenu.,Andere tabbladen sluiten
-no,Norwegian,Lukk andre faner,Legger en Lukk andre faner adgang til kontekstmenyen.,Lukk andre faner
-pl,Polish,Zamknij inne karty,Dodaje wpis Zamknij inne karty do menu kontekstowego.,Zamknij inne karty
-pt_BR,Portuguese (Brazil),Fechar outras guias,Adiciona uma entrada Fechar outras guias para o menu de contexto.,Fechar outras guias
-pt_PT,Portuguese (Portugal),Fechar outras guias,Adiciona uma entrada Fechar outras guias para o menu de contexto.,Fechar outras guias
-ro,Romanian,Închideți celelalte file,Adaugă o intrare Închide celelalte file în meniul contextual.,Închideți celelalte file
-ru,Russian,Закрыть другие вкладки,Добавляет запись Закрыть другие вкладки в контекстном меню.,Закрыть другие вкладки
-sk,Slovak,Zatvoriť ostatné karty,Pridá položku Zavrieť ostatné karty do kontextového menu.,Zatvoriť ostatné karty
-sl,Slovenian,Zapri druge zavihke,Doda vnos Zapri druge zavihke menija.,Zapri druge zavihke
-sr,Serbian,Затвори друге картице,Додаје Затварање других картица улазак у контекст менију.,Затвори друге картице
-sv,Swedish,Stäng andra flikar,Lägger till en Stäng Andra flikar inträde till snabbmenyn.,Stäng andra flikar
-sw,Swahili,Funga Vichupo Vingine,Anaongeza Close Nyingine Tabs kuingia orodha ya mazingira.,Funga Vichupo Vingine
-ta,Tamil,பிற தாவல்களை மூடுக,சூழல் மெனுவில் பிற தாவல்களை மூடுக நுழைவு சேர்க்கிறது.,பிற தாவல்களை மூடுக
-te,Telugu,ఇతర టాబ్లను మూసివేయి,మెనుకు ఇతర టాబ్లను మూసివేయి ఎంట్రీని జోడిస్తుంది.,ఇతర టాబ్లను మూసివేయి
-th,Thai,ปิดแท็บอื่น ๆ,เพิ่มรายการปิดแท็บอื่น ๆ ที่เมนูบริบท,ปิดแท็บอื่น ๆ
-tr,Turkish,Diğer Sekmeleri Kapat,içerik menüsüne Diğer Sekmeleri Kapat girişi ekler.,Diğer Sekmeleri Kapat
-uk,Ukrainian,Закрити інші вкладки,Додає запис Закрити інші вкладки в контекстному меню.,Закрити інші вкладки
-vi,Vietnamese,Close Other Tabs,Thêm một mục Close Other Tabs vào menu ngữ cảnh.,Close Other Tabs
-zh_CN,Chinese (China),关闭其他标签页,添加一个关闭其他标签进入到上下文菜单。,关闭其他标签页
-zh_TW,Chinese (Taiwan),關閉其他標籤頁,添加一個關閉其他標籤進入到上下文菜單。,關閉其他標籤頁
+en,English,Close Other Tabs,Adds a Close Other Tabs button to the toolbar and a similar entry to the context menu.,Close Other Tabs
+ar,Arabic,إغلاق علامات التبويب الأخرى,يضيف زر إغلاق علامات التبويب الأخرى إلى شريط الأدوات وإدخال مشابه إلى قائمة السياق.,إغلاق علامات التبويب الأخرى
+am,Amharic,ሌሎች ትሮችን ዝጋ,አሞሌው እና የአውድ ምናሌ ጋር ተመሳሳይ ግቤት ወደ ሌሎች ትሮችን ዝጋ አዝራር ያክላል.,ሌሎች ትሮችን ዝጋ
+bg,Bulgarian,Затваряне на другите раздели,Добавя бутон Затваряне на другите раздели на лентата с инструменти и подобно влизане в контекстното меню.,Затваряне на другите раздели
+bn,Bengali,অন্যান্য ট্যাব বন্ধ করুন,টুলবার এবং প্রসঙ্গ মেনুতে একটি অনুরূপ এন্ট্রিতে একটি অন্যান্য ট্যাব বন্ধ বোতাম যোগ করে।,অন্যান্য ট্যাব বন্ধ করুন
+ca,Catalan,Tancar les altres pestanyes,Afegeix un botó Tancar les altres pestanyes a la barra d'eines i una entrada similar a menú de context.,Tancar les altres pestanyes
+cs,Czech,Zavřít ostatní karty,Přidá tlačítko Zavřít ostatní karty na panelu nástrojů a podobný vstup do kontextového menu.,Zavřít ostatní karty
+da,Danish,Luk andre faner,Tilføjer en Luk andre faner knap til værktøjslinjen og en lignende indgang til genvejsmenuen.,Luk andre faner
+de,German,Andere Tabs schließen,Fügt eine Andere Tabs schließen Schaltfläche in der Symbolleiste auf einen ähnlichen Eintrag in das Kontextmenü.,Andere Tabs schließen
+el,Greek,Κλείσιμο των άλλων καρτελών,Προσθέτει ένα κουμπί Κλείσιμο των άλλων καρτελών στη γραμμή εργαλείων και παρόμοια είσοδο στο μενού περιβάλλοντος.,Κλείσιμο των άλλων καρτελών
+en_GB,English (Great Britain),Close Other Tabs,Adds a Close Other Tabs button to the toolbar and a similar entry to the context menu.,Close Other Tabs
+en_US,English (USA),Close Other Tabs,Adds a Close Other Tabs button to the toolbar and a similar entry to the context menu.,Close Other Tabs
+es,Spanish,Cerrar las otras pestañas,Añade un botón Cerrar las otras pestañas a la barra de herramientas y una entrada similar al menú de contexto.,Cerrar las otras pestañas
+es_419,Spanish (Latin America and Caribbean),Cerrar las otras pestañas,Añade un botón Cerrar las otras pestañas a la barra de herramientas y una entrada similar al menú de contexto.,Cerrar las otras pestañas
+et,Estonian,Sule muud vahelehed,Lisab Sule muud vahelehed nuppu tööriistaribal ja sarnase sisenemise kontekstimenüü.,Sule muud vahelehed
+fa,Persian,بستن برگه های دیگر,می افزاید: یک دکمه بستن برگه های دیگر به نوار ابزار و یک ورودی مشابه به منوی زمینه.,بستن برگه های دیگر
+fi,Finnish,Sulje muut välilehdet,Lisää Sulje muut välilehdet -painiketta työkalupalkin ja samanlainen pääsy valikon.,Sulje muut välilehdet
+fil,Filipino,Isara ang Ibang Mga Tab,Nagdadagdag ng isang Isara ang Ibang Mga Tab button sa toolbar at isang katulad na entry sa menu ng konteksto.,Isara ang Ibang Mga Tab
+fr,French,Fermer les autres onglets,Ajoute un bouton Fermer les autres onglets de la barre d'outils et une entrée similaire au menu contextuel.,Fermer les autres onglets
+gu,Gujarati,અન્ય ટૅબ્સને બંધ કરો,ટૂલબાર અને સંદર્ભ મેનૂ પર એક જ પ્રવેશ માટે અન્ય ટૅબ્સને બંધ કરો બટન ઉમેરે છે.,અન્ય ટૅબ્સને બંધ કરો
+he,Hebrew,סגור כרטיסיות אחרות,הוספה לחצן סגירה אחרת טאבים לסרגל הכלים וכניסה בדומה לתפריט ההקשר.,סגור כרטיסיות אחרות
+hi,Hindi,अन्य टैब बंद करें,उपकरण पट्टी और प्रसंग मेनू में समान प्रवेश करने के लिए एक अन्य टैब बंद करें बटन जोड़ता है।,अन्य टैब बंद करें
+hr,Croatian,Zatvori ostale kartice,Dodaje gumb Zatvori ostale kartice na alatnoj traci i sličnim ulazak u kontekstnom izborniku.,Zatvori ostale kartice
+hu,Hungarian,Egyéb lapok bezárása,"Hozzáad egy Egyéb lapok bezárása gombot az eszköztáron, és egy hasonló bejegyzést a menüből.",Egyéb lapok bezárása
+id,Indonesian,Tutup Tab Lain,Menambahkan tombol Tutup Tab Lain ke toolbar dan entri mirip dengan menu konteks.,Tutup Tab Lain
+it,Italian,Chiudi le altre schede,Aggiunge un pulsante Chiudi le altre schede alla barra degli strumenti e una voce simile al menu contestuale.,Chiudi le altre schede
+ja,Japanese,他のタブをすべて閉じます,ツールバーとコンテキストメニューのようなエントリに他のタブをすべて閉じる]ボタンを追加します。,他のタブをすべて閉じます
+kn,Kannada,ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ,ಟೂಲ್ಬಾರ್ ಮತ್ತು ಸಂದರ್ಭ ಮೆನುವಿಗೆ ಇದೇ ನಮೂದಿಗೆ ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ ಬಟನ್ ಸೇರಿಸುತ್ತದೆ.,ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ
+ko,Korean,다른 탭 닫기,도구 모음 및 상황에 맞는 메뉴와 유사한 항목에 다른 탭 닫기 버튼을 추가합니다.,다른 탭 닫기
+lt,Lithuanian,Uždaryti kitus skirtukus,Prideda Uždaryti kitus skirtukus mygtuką į įrankių juostą ir panašiai įvažiavimo į kontekstinį meniu.,Uždaryti kitus skirtukus
+lv,Latvian,Aizvērt citas cilnes,Pievieno Aizvērt citas cilnes pogu uz rīkjoslas un līdzīgu ieejas konteksta izvēlni.,Aizvērt citas cilnes
+ml,Malayalam,മറ്റ് ടാബുകൾ അടയ്ക്കുക,ഉപകരണബാർ സന്ദർഭ മെനു ഒരു സമാനമായ എൻട്രി ഒരു മറ്റ് ടാബുകൾ അടയ്ക്കുക ബട്ടൺ ചേർക്കുന്നു.,മറ്റ് ടാബുകൾ അടയ്ക്കുക
+mr,Marathi,अन्य टॅब बंद करा,एक अन्य टॅब बंद करा बटण टूलबार आणि संदर्भ मेनूमध्ये एक समान नोंद जोडते.,अन्य टॅब बंद करा
+ms,Malay,Tutup Tab Lain,Menambah butang Tutup Tab Lain dengan toolbar dan kemasukan yang sama dengan menu konteks.,Tutup Tab Lain
+nl,Dutch,Andere tabbladen sluiten,Voegt een andere tabbladen sluiten knop aan de werkbalk en een vergelijkbare toegang tot het contextmenu.,Andere tabbladen sluiten
+no,Norwegian,Lukk andre faner,"Legger en Lukk andre faner knappen på verktøylinjen, og en tilsvarende adgang til kontekstmenyen.",Lukk andre faner
+pl,Polish,Zamknij inne karty,Dodaje przycisk Zamknij inne karty na pasku narzędzi i podobnego wejścia do menu kontekstowego.,Zamknij inne karty
+pt_BR,Portuguese (Brazil),Fechar outras guias,Adiciona um botão Fechar outras guias para a barra de ferramentas e uma entrada semelhante ao menu de contexto.,Fechar outras guias
+pt_PT,Portuguese (Portugal),Fechar outras guias,Adiciona um botão Fechar outras guias para a barra de ferramentas e uma entrada semelhante ao menu de contexto.,Fechar outras guias
+ro,Romanian,Închideți celelalte file,Adaugă un buton de închidere Alte file în bara de instrumente și o intrare similară cu meniul contextual.,Închideți celelalte file
+ru,Russian,Закрыть другие вкладки,Добавляет кнопку Закрыть другие вкладки на панель инструментов и аналогичную запись в контекстном меню.,Закрыть другие вкладки
+sk,Slovak,Zatvoriť ostatné karty,Pridá tlačidlo Zavrieť ostatné karty na paneli nástrojov a podobný vstup do kontextového menu.,Zatvoriť ostatné karty
+sl,Slovenian,Zapri druge zavihke,Doda gumb Zapri druge zavihke v orodni vrstici in podobno vstop v meni.,Zapri druge zavihke
+sr,Serbian,Затвори друге картице,Додаје дугме Затварање других картица на палети и сличан уласка у контекст менију.,Затвори друге картице
+sv,Swedish,Stäng andra flikar,Lägger till en Stäng Andra flikar knappen i verktygsfältet och en liknande post till snabbmenyn.,Stäng andra flikar
+sw,Swahili,Funga Vichupo Vingine,Anaongeza Close Nyingine Tabs kifungo toolbar na kuingia sawa na menyu.,Funga Vichupo Vingine
+ta,Tamil,பிற தாவல்களை மூடுக,டூல்பார் மற்றும் சூழல் மெனுவில் ஒத்த நுழைவதற்கான ஒரு மூடு பிற தாவல்களை பொத்தானை சேர்க்கிறது.,பிற தாவல்களை மூடுக
+te,Telugu,ఇతర టాబ్లను మూసివేయి,టూల్బార్ మరియు మెనుకు ఇదే ప్రవేశానికి ఒక ఇతర టాబ్లను మూసివేయి బటన్ను జోడిస్తుంది.,ఇతర టాబ్లను మూసివేయి
+th,Thai,ปิดแท็บอื่น ๆ,เพิ่มปุ่มปิดแท็บอื่น ๆ ในแถบเครื่องมือและรายการที่คล้ายกับเมนูบริบท,ปิดแท็บอื่น ๆ
+tr,Turkish,Diğer Sekmeleri Kapat,Araç çubuğu ve içerik menüsüne benzer bir girişe bir Diğer Sekmeleri Kapat düğmesi ekler.,Diğer Sekmeleri Kapat
+uk,Ukrainian,Закрити інші вкладки,Додає кнопку Закрити інші вкладки на панель інструментів і аналогічну запис в контекстному меню.,Закрити інші вкладки
+vi,Vietnamese,Close Other Tabs,Thêm nút Close Other Tabs vào thanh công cụ và một mục tương tự vào menu ngữ cảnh.,Close Other Tabs
+zh_CN,Chinese (China),关闭其他标签页,添加一个关闭其他标签页按钮，工具栏和类似的条目上下文菜单。,关闭其他标签页
+zh_TW,Chinese (Taiwan),關閉其他標籤頁,添加一個關閉其他標籤頁按鈕，工具欄和類似的條目上下文菜單。,關閉其他標籤頁
