@@ -5,7 +5,7 @@ To replace the item recently removed from the right-click menu on Chrome tabs, t
 
 * It adds a button to the toolbar you can click on to close other tabs.
 * It adds a Close Other Tabs item to the standard right-click context menu.
-* It adds a `Alt+Shift+W` keyboard shortcut.
+* It adds the `Alt+Shift+W` keyboard shortcut.
 
 The extension adds a toolbar button and adds an item to the right click context menu you get when clicking on the page rather restoring the menu item that was removed because Extensions cannot add items to the tab menu.
 
